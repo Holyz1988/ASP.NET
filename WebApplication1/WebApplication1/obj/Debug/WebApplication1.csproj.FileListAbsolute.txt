@@ -1,0 +1,104 @@
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\WebApplication1.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\fr\System.Web.Razor.resources.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\fr\System.Web.Webpages.resources.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\fr\System.Web.Webpages.Deployment.resources.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\fr\System.Web.Webpages.Razor.resources.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\fr\System.Web.Helpers.resources.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\bin\fr\System.Web.Mvc.resources.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+Z:\VsStudio\ASP.NET MVC\Exercice 1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\fr\System.Web.Razor.resources.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\fr\System.Web.Webpages.resources.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\fr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\fr\System.Web.Webpages.Razor.resources.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\adai11\Desktop\ASP.NET MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
