@@ -5,6 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using WebApplication1.Models;
 using System.Net.Mail;
+using System.Web.Configuration;
 
 namespace WebApplication1.Controllers
 {
@@ -20,38 +21,10 @@ namespace WebApplication1.Controllers
         {
             if (ModelState.IsValid)
             {
-                try
-                {
-                    MailMessage message = new MailMessage();
-                    message.From = new MailAddress(monFormulaire.Email);//Email which you are getting 
-                                                         //from contact us page 
-                    message.To.Add("emailaddrss@gmail.com");//Where mail will be sent 
-                    message.Subject = monFormulaire.Message;
-                    msz.Body = vm.Message;
-                    SmtpClient smtp = new SmtpClient();
-
-                    smtp.Host = "smtp.gmail.com";
-
-                    smtp.Port = 587;
-
-                    smtp.Credentials = new System.Net.NetworkCredential
-                    ("youremailid@gmail.com", "password");
-
-                    smtp.EnableSsl = true;
-
-                    smtp.Send();
-
-                    ModelState.Clear();
-                    ViewBag.Message = "Thank you for Contacting us ";
-                }
-                catch (Exception ex)
-                {
-                    ModelState.Clear();
-                    ViewBag.Message = $" Sorry we are facing Problem here {ex.Message}";
-                }
+                SmtpClient client = new SmtpClient("smtp.gmail.com", 587);
+                client.Credentials = new NetworkCredential("username", "password");
             }
 
-            return View();
         }
     }
 }
