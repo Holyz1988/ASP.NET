@@ -1,0 +1,43 @@
+﻿@model WebApplication1.Models.Operation
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
+    <title>Modification d'une opération</title>
+</head>
+<body>
+    <div class="container">
+        <form action="EnvoiFormulaireModOperation" method="post">
+            <div class="form-group">
+                <input id="prodId" name="IdOperation" type="hidden" value="@Model.IdOperateur">
+                <label for="exampleFormControlSelect1">Opération</label>
+                <select class="form-control" name="operateur">
+                    <option>Addition</option>
+                    <option>Soustraction</option>
+                    <option>Multiplication</option>
+                    <option>Division</option>
+                    <option>Puissance</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="formGroupExampleInput">Operande Gauche</label>
+                <input type="text" class="form-control" name="operandeGauche">
+            </div>
+            <div class="form-group">
+                <label for="formGroupExampleInput2">Operande Droite</label>
+                <input type="text" class="form-control" name="operandeDroite">
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
+</body>
+</html>

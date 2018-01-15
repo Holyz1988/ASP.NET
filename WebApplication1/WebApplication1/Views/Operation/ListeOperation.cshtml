@@ -19,6 +19,8 @@
                 <th>Operateur</th>
                 <th>Operande Droite</th>
                 <th>Lien vers le calcul</th>
+                <th>Supprimer le calcul</th>
+                <th>Modifier le calcul</th>
             </tr>
             @foreach (var monOperation in Model)
             {
@@ -26,9 +28,11 @@
                     <th>@monOperation.OperandeGauche</th>
                     <th>@monOperation.Operateur</th>
                     <th>@monOperation.OperandeDroite</th>
-                    <th><a href="/Operation/Historique?IdOperation=@monOperation.IdOperateur"<button type="button" class="btn btn-primary">Calcul</button></th>
+                    <th><a href="/Operation/Resultat?IdOperation=@monOperation.IdOperateur"><input type="submit" class="btn btn-primary" value="Resultat"/></a></th>
+                    <th><a href="/Operation/SupprimerOperation?IdOperation=@monOperation.IdOperateur"><input type="submit" class="btn btn-primary" value="Supprimer" /></a></th>
+                    <th><a href="/Operation/FormulaireModOperation?IdOperation=@monOperation.IdOperateur"><input type="submit" class="btn btn-primary" value="Modifier" /></a></th>
                 </tr>
-                        }
+              }
         </table>
     </div>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>

@@ -124,11 +124,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\ContactController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\OperationController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\FormulaireUpdateOperation.cs" />
     <Compile Include="Models\Operation.cs" />
     <Compile Include="Models\PageIndexModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -144,6 +146,9 @@
     <Content Include="Views\Operation\Operation.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Operation\ListeOperation.cshtml" />
+    <Content Include="Views\Operation\LesOperations.cshtml" />
+    <Content Include="Views\Operation\Modification.cshtml" />
+    <Content Include="Views\Contact\page_contact.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
